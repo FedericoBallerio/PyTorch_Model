@@ -15,6 +15,12 @@ Le istruzioni per accedere al dataset, eseguire l'analisi ed esplorare le dashbo
 
 ## Struttura del Progetto
 - `PyTorch_Model.py`: Script Python con il codice del modello
+- `results/`: Cartella contenente i risultati dell'analisi
+  - `MRI_random_sample.png`: Visualizzazione di campioni casuali di immagini MRI
+  - `training_metrics.txt`: Log delle metriche per epoca durante l'addestramento
+  - `training_curves.png`: Grafici dell'andamento di perdita e accuratezza durante l'addestramento
+  - `testing_metrics.txt`:Risultati finali del modello sul set di test (96.48% accuratezza)
+  - `confusion_matrix.png`: Matrice di confusione delle previsioni del modello
 
 ## Funzionalità
 - Preprocessamento delle immagini MRI
@@ -44,6 +50,12 @@ Instructions for accessing the dataset, running the analysis, and exploring the 
 
 ## Project Structure
 - `PyTorch_Model.py`: Python script with model code
+- `results/`: Folder containing analysis results
+  - `MRI_random_sample.png`: Visualization of random MRI image samples
+  - `training_metrics.txt`: Epoch-by-epoch metrics log during training
+  - `training_curves.png`: Plots of loss and accuracy during training
+  - `testing_metrics.txt`: Final model results on the test set (96.48% accuracy)
+  - `confusion_matrix.png`: Confusion matrix of model predictions
 
 ## Features
 - MRI image preprocessing
