@@ -1,4 +1,4 @@
-# Classificazione MRI Alzheimer con PyTorch
+# Classificazione MRI Alzheimer con PyTorch (96.48% accuratezza)
 
 ## Descrizione
 Questo progetto implementa un modello di rete neurale per classificare immagini di risonanza magnetica (MRI) in diverse fasi della malattia di Alzheimer. Il modello è in grado di distinguere tra pazienti non dementi, con demenza molto lieve, lieve o moderata, utilizzando una rete neurale addestrata con PyTorch.
@@ -33,7 +33,7 @@ Le istruzioni per accedere al dataset, eseguire l'analisi ed esplorare le dashbo
 <br><br><br><br><br>
 
 
-# Alzheimer MRI Classification with PyTorch
+# Alzheimer MRI Classification with PyTorch (96.48% accuracy)
 
 ## Description
 This project implements a neural network model to classify MRI images into different stages of Alzheimer's disease. The model is capable of distinguishing between non-demented patients and those with very mild, mild ore moderate dementia, using a neural network trained with PyTorch.
